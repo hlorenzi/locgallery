@@ -59,6 +59,11 @@ export default function Index()
             </a>
             <br/>
 
+            • <a href="toystory4">
+                <b>Toy Story 4</b>, 2019
+            </a>
+            <br/>
+
             • <a href="onward">
                 <b>Onward</b>, 2020
             </a>

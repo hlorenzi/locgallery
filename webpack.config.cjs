@@ -11,6 +11,7 @@ module.exports =
 		insideout: path.resolve(__dirname, "src/insideout.jsx"),
 		zootopia: path.resolve(__dirname, "src/zootopia.jsx"),
 		coco: path.resolve(__dirname, "src/coco.jsx"),
+		toystory4: path.resolve(__dirname, "src/toystory4.jsx"),
 		onward: path.resolve(__dirname, "src/onward.jsx"),
 	},
     
