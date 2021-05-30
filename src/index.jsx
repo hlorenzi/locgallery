@@ -44,6 +44,11 @@ export default function Index()
             </a>
             <br/>
 
+            • <a href="frozen">
+                <b>Frozen</b>, 2013
+            </a>
+            <br/>
+
             • <a href="insideout">
                 <b>Inside Out</b>, 2015
             </a>
@@ -56,6 +61,11 @@ export default function Index()
 
             • <a href="coco">
                 <b>Coco</b>, 2017
+            </a>
+            <br/>
+
+            • <a href="incredibles2">
+                <b>Incredibles 2</b>, 2018
             </a>
             <br/>
 

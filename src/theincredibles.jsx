@@ -97,7 +97,7 @@ export default function TheIncredibles()
             missing_br: `"Desaparecido", lit. "Missing".`,
             threemonths_us: `"3 months later"`,
             threemonths_br: `"Três meses depois". Number is spelled out as is preferred in Portuguese.`,
-            credits_cast: `Cast section is localized in an extra screen after the original English credits.`,
+            credits_cast: `Cast section is localized in an extra screen after the original credits.`,
             credits_cast_br: `[WEIRD] Still only reflects the first dub, which isn't the currently distributed version.`,
             credits_version: `Extra credit screens at the end of the movie in foreign versions.`,
         }

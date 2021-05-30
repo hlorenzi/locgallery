@@ -55,10 +55,11 @@ export default function Onward()
             list1_de: `"Das neue ich / Mich mehr trauen / Autofahren lernen / Leute zur Party einladen / Sein wie Dad".`,
             list1_mx: `"Nuevo yo / Hablar más en voz alta / Aprender a manejar / Invitar gente a la fiesta / Ser como papá".`,
             list1_nl: `"Nieuwe ik / Voor mezelf opkomen / Leren autorijden / Mensen uitnodigen voor feestje / Zijn zoals papa".`,
-            cassette_us: `"Dad".`,
-            cassette_br: `"Pai".`,
-            cassette_de: `"Dad".`,
-            cassette_mx: `"Papá".`,
+            cassette_us: `"Dad"`,
+            cassette_br: `"Pai"`,
+            cassette_de: `"Dad"`,
+            cassette_mx: `"Papá"`,
+            cassette_nl: `"Papa"`,
             letter1_us:
                 `"Dear Ian & Barley, / Long ago, the world was full of wonder. It was adventurous, ` +
                 `exciting, and best of all, there was magic. And that magic [...]"`,

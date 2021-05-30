@@ -19,19 +19,17 @@ export default function Coco()
         langs: [
             "us",
             "br",
+            "nl",
             "jp",
         ],
         pics: [
             "presents1",
             "presents2",
             "title",
-            "pamphlet1",
-            "pamphlet2",
+            "poster",
             "record1",
             "record2",
-            "pamphlet3",
             "inscription",
-            "gates",
             "reentry",
             "show1",
             "show2",
@@ -50,8 +48,8 @@ export default function Coco()
             presents2_br: `"Um filme da Pixar Animation Studios"`,
             title_us: `"Coco", which is the name of a central character in the movie.`,
             title_br: `"Viva - A Vida é uma Festa", lit. a pun on "(Let) live" and "Hooray", with the subtitle "Life is a party".`,
-            pamphlet1_us: `"Día de Muertos / Talent Show / Plaza Santa Cecilia - 7 PM"`,
-            pamphlet1_br: `"Día de los Muertos / Show de Talentos / Plaza Santa Cecilia - 7 PM"`,
+            poster_us: `"Día de Muertos / Talent Show / Plaza Santa Cecilia - 7 PM"`,
+            poster_br: `"Día de los Muertos / Show de Talentos / Plaza Santa Cecilia - 7 PM"`,
             record1_us: `"Remember Me"`,
             record1_br: `"Lembre de Mim"`,
             record2_us: `"Ernesto de la Cruz / Remember Me"`,
@@ -76,6 +74,20 @@ export default function Coco()
             dedication_br: `"Para as pessoas que cruzaram nosso caminho, que nos ajudaram e inspiraram, não os esqueceremos."`,
             credits_cast: `Cast section is fully localized amid the original credits.`,
             credits_version: `Extra credit screens at the end of the movie in foreign versions.`,
+        }
+    })
+
+    data.tables.push({
+        title: "Scenes localized generically",
+        folder: "coco",
+        langs: [
+            "us",
+            "other",
+        ],
+        pics: [
+            "vhs",
+        ],
+        notes: {
         }
     })
 

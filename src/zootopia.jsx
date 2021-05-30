@@ -19,6 +19,7 @@ export default function Zootopia()
         langs: [
             "us",
             "br",
+            "eu",
         ],
         pics: [
             "presents",
@@ -36,7 +37,6 @@ export default function Zootopia()
             "mug",
             "news1",
             "news2",
-            "news2b",
             "news3",
             "poster",
             "news4",
@@ -52,6 +52,7 @@ export default function Zootopia()
             presents_br: `"Disney apresenta"`,
             title_us: `"Zootopia"`,
             title_br: `"Zootopia"`,
+            title_eu: `"Zootropolis"`,
             boxes_us: `"[Visious] Vicious predator / Meek prey"`,
             boxes_br: `"[Vorases] Vorazes predadores / Presas fáceis"`,
             banner_us: `"Carrot Days / Talent Show / Where anyone can be anything!"`,
@@ -73,7 +74,8 @@ export default function Zootopia()
             file: "[WEIRD] A strange mix of languages. The bigger title is left in English, while the subtitle is localized, for example.",
             file_us: `"Missing Mammal Report / Leads: Zero / Witnesses: Zero / Evidence: Zero / Last known sighting".`,
             file_br: `"Relatório de Mamíferos Desaparecidos / Pistas: Zero / Testemunhas: Zero / Evidências: Zero / Lugar da última aparição".`,
-            mug_us: `"World's greatest [dad] assistant mayor"`,
+            mug_us: `"World's greatest assistant mayor [dad]"`,
+            mug_br: `"Melhor vice-prefeira [pai] do mundo!"`,
             news1_us: `"Developing / Tundratown tragedy"`,
             news1_br: `"Em andamento / Tragédia em Tundralândia". News anchor is changed to a Brazilian jaguar.`,
             news2_us: `"Earlier / Tensions flare at peace rally"`,
@@ -99,6 +101,7 @@ export default function Zootopia()
         folder: "zootopia",
         langs: [
             "us",
+            "eu",
         ],
         pics: [
             "carnival",
@@ -112,6 +115,7 @@ export default function Zootopia()
             "pawpsicle",
             "cellphone",
             "littlerodentia",
+            "folder",
             "dmv",
             "printout",
             "trafficsystem",

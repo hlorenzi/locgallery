@@ -21,7 +21,7 @@ function getFiles(dir)
 
 export async function init()
 {
-    const folder = "./assets/"
+    const folder = "./convert/"
 
     for (const file of getFiles(folder))
     {
