@@ -23,12 +23,14 @@ export default function Incredibles2()
         ],
         pics: [
             "title",
+            "businesscard",
             "note",
             "math",
             "welcomeback",
             "stilloutthere",
             "news_savestrain",
             "teleprompter",
+            "news_onthephone",
             "news_exclusive",
             "accord",
             "camera",
@@ -51,6 +53,7 @@ export default function Incredibles2()
         ],
         pics: [
             "fourthdimension",
+            "doozles",
             "followboat1",
             "followboat2",
             "followboat3",
@@ -69,9 +72,7 @@ export default function Incredibles2()
         pics: [
             "banks",
             "safaricourt",
-            "businesscard",
             "happyplatter",
-            "zzzzzz",
             "everjust",
             "news_everjust",
         ],

@@ -19,6 +19,7 @@ export default function TheIncredibles()
         langs: [
             "us",
             "br",
+            "fr",
         ],
         pics: [
             "interview_mrincredible",
@@ -62,8 +63,8 @@ export default function TheIncredibles()
             interview_frozone_br: `"Gelado", lit. "Cold" or "Icy". His secret identity is "Lúcio Barros".`,
             title_br: `"Os Incríveis"`,
             bombvoyage1: `"Monsieur Incroyable...!" ` +
-                `Even though he still speaks the same lines in French, ` +
-                `he's been dubbed over in foreign versions by other actors, ` +
+                `Even though he still speaks the same lines in foreign versions (except in French), ` +
+                `he's been dubbed over by other actors, ` +
                 `presumably so he could react to Incrediboy's localized name.`,
             bombvoyage1_us: `"Mr. Incredible...!"`,
             bombvoyage1_br: `"Sr. Incrível...!"`,
@@ -83,12 +84,13 @@ export default function TheIncredibles()
             newspaper3_br: `"Super prejuízos". Missing dollar signs and second line.`,
             newspaper4_us: `"Dynaguy sued"`,
             newspaper4_br: `"Dínamo processado". [INC] Edna Mode later refers to him as "Dinamite" in the dub.`,
+            newspaper4_fr: `"Dynaman mis en examen". [INC] Edna Mode later refers to him as "Ultraman" in the dub.`,
             newspaper5_us: `"Government hides heroes"`,
             newspaper5_br: `"Governo esconde heróis"`,
             newspaper6_us: `"Public Safe Again / Public Opinion Polls Show 85% in favor of Super Relocation Act".`,
             newspaper6_br: `"Público em Segurança Novamente". Missing elaboration. [WEIRD] Text squeezed by a lot to fit.`,
             newspaper7_us: `"Not so super anymore".`,
-            newspaper7_br: `"Já não tão super". [ERROR] If we consider "super" to be a noun that has been fully incorporated into Portuguese, the correct spelling would be "súper" (with an acute accent).`,
+            newspaper7_br: `"Já não tão super". [ERROR] If given that "super" is supposed to be fully incorporated into Portuguese, the correct spelling would be "súper" (with an acute accent).`,
             newspaper8_us: `"Supers: where are they now?"`,
             newspaper8_br: `"Supers: onde estão eles agora?". [INC] The narrator reads this more naturally as "onde eles estão agora?" (swapped word order) in the dub.`,
             fifteenyears_us: `"15 years later"`,
@@ -118,6 +120,9 @@ export default function TheIncredibles()
             "denied",
             "wall",
             "wall_detail1",
+            "wall_detail2",
+            "wall_detail3",
+            "wall_detail4",
             "location_unknown1",
             "location_unknown2",
             "location_known1",
@@ -131,8 +136,8 @@ export default function TheIncredibles()
             pursuit2_us: `"Merge pursuit / Auto drive".`,
             pursuit3: `Removed overlay text.`,
             pursuit3_us: `"Intercept mode / Convert".`,
-            wall: `Foreign versions include assets in a variety of languages in the same shot, but the original only features English text. The "Doing our part!" poster has the American flag background removed.`,
-            wall_detail1_us: `"Thank you Mr. Incredible"`,
+            wall: `Foreign versions include assets in a variety of languages in the same shot, but the original only features English text. The "Doing our part!" poster and the Life magazine cover have the American flag background removed.`,
+            wall_detail2_us: `"Thank you Mr. Incredible"`,
             location_unknown1: `Text is replaced by graphics. The original shot also includes a camera pan, which is not present in foreign versions.`,
             location_known1: `Text is replaced by graphics. The original shot also includes a camera pan, which is not present in foreign versions.`,
         }
@@ -153,6 +158,7 @@ export default function TheIncredibles()
             "school",
             "insuricare2",
             "holdstill",
+            "bigmoney",
             "robotvision1",
             "kronos",
             "password",

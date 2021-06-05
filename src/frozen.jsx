@@ -9,7 +9,7 @@ export default function Frozen()
     {
         title: "Frozen",
         year: 2013,
-        copyright: "© Disney, Pixar",
+        copyright: "© Disney",
         tables: [],
     }
 

@@ -19,6 +19,7 @@ export default function Coco()
         langs: [
             "us",
             "br",
+            "fr",
             "nl",
             "jp",
         ],
@@ -52,6 +53,8 @@ export default function Coco()
             poster_br: `"Día de los Muertos / Show de Talentos / Plaza Santa Cecilia - 7 PM"`,
             record1_us: `"Remember Me"`,
             record1_br: `"Lembre de Mim"`,
+            record1_fr: `"Ne m'oublie pas"`,
+            record1_nl: `"Vergeet me niet"`,
             record2_us: `"Ernesto de la Cruz / Remember Me"`,
             record2_br: `"Ernesto de la Cruz / Lembre de Mim"`,
             inscription_us: `"Seize your moment!"`,
