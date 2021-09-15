@@ -54,7 +54,7 @@ export default function ToyStory4()
             book1_us: `"Gabby Gabby / Let's be friends!"`,
             book1_br: `"Gabby Gabby / Vamos ser amigas!"`,
             book2_us: `"We are best friends, my Gabby and me. Each afternoon we break for tea."`,
-            book2_br: `"Nós somos melhores amigas, minha Gabby e eu. Todas as tardes tomamos chá juntas." [WEIRD] Translated literally, without any rhymes or meter pattern.`,
+            book2_br: `"Nós somos melhores amigas, minha Gabby e eu. Todas as tardes tomamos chá juntas." [WEIRD] Translated literally, without employing rhyme or a meter pattern.`,
             book3_us: `"I tell her my [problems.] She always [listens.] / In [...] we're always [...]"`,
             book3_br: `"Eu falo dos meus [problemas.] Ela sempre me [escuta.]". [WEIRD] The space for the second stanza has been left blank.`,
             credits_cast: `Cast section is fully localized amid the original credits.`,

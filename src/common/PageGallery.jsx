@@ -20,7 +20,7 @@ const StyledTable = styled.div`
     grid-row-gap: 0.15rem;
     min-width: 0;
     min-height: 0;
-    max-width: fit-content;
+    max-width: min-content;
     margin-bottom: 2rem;
 `
 
@@ -152,6 +152,7 @@ export function PageGallery(props)
                                     <StyledTablePicNotes
                                         row={ p * 4 + 4 }
                                         col={ l }
+                                        lang={ lang }
                                     >
                                         { preprocessNote(table.notes && table.notes[pic + "_" + lang] || null) }
                                     </StyledTablePicNotes>

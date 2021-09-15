@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "node build.js && webpack --config webpack.config.cjs",
-    "watch": "webpack --watch --mode development --config webpack.config.cjs",
+    "dev": "webpack --watch --mode development --config webpack.config.cjs",
     "start": "http-server -p 80",
     "convert": "node convert.js"
   },
