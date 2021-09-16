@@ -1,19 +1,12 @@
-import React from "react"
-import * as Base from "./common/Base.jsx"
-import { PageGallery } from "./common/PageGallery.jsx"
-
-
-export default function Coco()
+export const Coco =
 {
-    const data =
+    id: "coco",
+    kind: "movie",
+    title: "Coco",
+    year: 2017,
+    copyright: "© Disney, Pixar",
+    tables: [
     {
-        title: "Coco",
-        year: 2017,
-        copyright: "© Disney, Pixar",
-        tables: [],
-    }
-
-    data.tables.push({
         title: "Scenes fully localized",
         folder: "coco",
         langs: [
@@ -78,9 +71,8 @@ export default function Coco()
             credits_cast: `Cast section is fully localized amid the original credits.`,
             credits_version: `Extra credit screens at the end of the movie in foreign versions.`,
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes localized generically",
         folder: "coco",
         langs: [
@@ -92,9 +84,8 @@ export default function Coco()
         ],
         notes: {
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes left unlocalized",
         folder: "coco",
         langs: [
@@ -110,10 +101,5 @@ export default function Coco()
             departures_glimpse: `Gate inscriptions aren't localized in quick scenes where they're not the main focus.`,
             rivera: `"Rivera / Familia de Zapateros / Desde 1921".`,
         }
-    })
-
-    return <PageGallery data={ data }/>
+    }]
 }
-
-
-Base.main(<Coco/>)

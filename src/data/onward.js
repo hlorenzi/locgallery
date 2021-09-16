@@ -1,19 +1,12 @@
-import React from "react"
-import * as Base from "./common/Base.jsx"
-import { PageGallery } from "./common/PageGallery.jsx"
-
-
-export default function Onward()
+export const Onward =
 {
-    const data =
+    id: "onward",
+    kind: "movie",
+    title: "Onward",
+    year: 2020,
+    copyright: "© Disney, Pixar",
+    tables: [
     {
-        title: "Onward",
-        year: 2020,
-        copyright: "© Disney, Pixar",
-        tables: [],
-    }
-
-    data.tables.push({
         title: "Scenes fully localized",
         folder: "onward",
         langs: [
@@ -111,9 +104,8 @@ export default function Onward()
             credits_cast: `Cast section is fully localized amid the original credits.`,
             credits_version: `Extra credit screens at the end of the movie in foreign versions.`,
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes localized generically",
         folder: "onward",
         langs: [
@@ -130,13 +122,12 @@ export default function Onward()
             "map",
         ],
         notes: {
-            card1: "Text is replaced by graphics. The back of the cards are also changed.",
+            card1: "Text is replaced by graphics. The backs of the cards are also changed.",
             dashboard_us: `Explained as "'O' is for 'Onward'".`,
             map: "Text is removed.",
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes left unlocalized",
         folder: "onward",
         langs: [
@@ -152,10 +143,5 @@ export default function Onward()
             "spellbook",
             "stone",
         ]
-    })
-
-    return <PageGallery data={ data }/>
+    }]
 }
-
-
-Base.main(<Onward/>)

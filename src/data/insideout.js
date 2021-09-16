@@ -1,19 +1,13 @@
-import React from "react"
-import * as Base from "./common/Base.jsx"
-import { PageGallery } from "./common/PageGallery.jsx"
-
-
-export default function InsideOut()
+export const InsideOut =
 {
-    const data =
+    id: "insideout",
+    kind: "movie",
+    title: "Inside Out",
+    year: 2015,
+    copyright: "© Disney, Pixar",
+    slotHeight: "12em",
+    tables: [
     {
-        title: "Inside Out",
-        year: 2015,
-        copyright: "© Disney, Pixar",
-        tables: [],
-    }
-
-    data.tables.push({
         title: "Scenes fully localized",
         folder: "insideout",
         langs: [
@@ -91,9 +85,8 @@ export default function InsideOut()
             credits_cast: `Cast section is fully localized amid the original credits.`,
             credits_version: `Extra credit screens at the end of the movie in foreign versions.`,
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes localized generically",
         folder: "insideout",
         langs: [
@@ -106,9 +99,8 @@ export default function InsideOut()
         notes: {
             cellphone_us: `"Mom"`,
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes left unlocalized",
         folder: "insideout",
         langs: [
@@ -122,10 +114,5 @@ export default function InsideOut()
         ],
         notes: {
         }
-    })
-
-    return <PageGallery data={ data }/>
+    }]
 }
-
-
-Base.main(<InsideOut/>)

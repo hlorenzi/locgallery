@@ -1,19 +1,12 @@
-import React from "react"
-import * as Base from "./common/Base.jsx"
-import { PageGallery } from "./common/PageGallery.jsx"
-
-
-export default function TheIncredibles()
+export const TheIncredibles =
 {
-    const data =
-    {
-        title: "The Incredibles",
-        year: 2004,
-        copyright: "© Disney, Pixar",
-        tables: [],
-    }
-
-    data.tables.push({
+    id: "theincredibles",
+    kind: "movie",
+    title: "The Incredibles",
+    year: 2004,
+    copyright: "© Disney, Pixar",
+    tables:
+    [{
         title: "Scenes fully localized",
         folder: "theincredibles",
         langs: [
@@ -106,9 +99,8 @@ export default function TheIncredibles()
             credits_cast_br: `[WEIRD] Still only reflects the first dub, which isn't the currently distributed version.`,
             credits_version: `Extra credit screens at the end of the movie in foreign versions.`,
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes localized generically",
         folder: "theincredibles",
         langs: [
@@ -145,9 +137,8 @@ export default function TheIncredibles()
             location_unknown1: `Text is replaced by graphics. The original shot also includes a camera pan, which is not present in foreign versions.`,
             location_known1: `Text is replaced by graphics. The original shot also includes a camera pan, which is not present in foreign versions.`,
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes left unlocalized",
         folder: "theincredibles",
         langs: [
@@ -190,10 +181,5 @@ export default function TheIncredibles()
             robotvision2: `"Control stolen by external signal".`,
             robotvision3: `"Signal source: remote control / Destroy remote".`,
         }
-    })
-
-    return <PageGallery data={ data }/>
+    }]
 }
-
-
-Base.main(<TheIncredibles/>)

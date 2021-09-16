@@ -1,19 +1,13 @@
-import React from "react"
-import * as Base from "./common/Base.jsx"
-import { PageGallery } from "./common/PageGallery.jsx"
-
-
-export default function Up()
+export const Up =
 {
-    const data =
+    id: "up",
+    kind: "movie",
+    title: "Up",
+    year: 2009,
+    copyright: "© Disney, Pixar",
+    slotHeight: "12em",
+    tables: [
     {
-        title: "Up",
-        year: 2009,
-        copyright: "© Disney, Pixar",
-        tables: [],
-    }
-
-    data.tables.push({
         title: "Scenes fully localized",
         folder: "up",
         langs: [
@@ -71,9 +65,8 @@ export default function Up()
             credits_director: `The animated section of the credits is localized.`,
             credits_version: `Extra credit screens at the end of the movie in foreign versions.`,
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes localized generically",
         folder: "up",
         langs: [
@@ -85,9 +78,8 @@ export default function Up()
         ],
         notes: {
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes left unlocalized",
         folder: "up",
         langs: [
@@ -113,10 +105,5 @@ export default function Up()
         notes: {
             credits_cast: "Cast section is left unlocalized amid the original credits.",
         }
-    })
-
-    return <PageGallery data={ data }/>
+    }]
 }
-
-
-Base.main(<Up/>)

@@ -68,7 +68,7 @@ const StyledTablePicNotes = styled.div`
 `
 
 
-export function PageGallery(props)
+export default function PageGallery(props)
 {
     document.title = props.data.title + " • LocGallery"
 
@@ -144,8 +144,9 @@ export function PageGallery(props)
                                         <img
                                             src={ "../assets/" + table.folder + "/" + pic + "_" + lang + ".jpg" }
                                             style={{
-                                                maxWidth: "20em",
-                                                height: "auto",
+                                                objectFit: "contain",
+                                                width: props.data.slotWidth ?? "20em",
+                                                height: props.data.slotHeight ?? "9em",
                                         }}/>
                                     </StyledTablePic>
                                 

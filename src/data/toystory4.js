@@ -1,19 +1,12 @@
-import React from "react"
-import * as Base from "./common/Base.jsx"
-import { PageGallery } from "./common/PageGallery.jsx"
-
-
-export default function ToyStory4()
+export const ToyStory4 =
 {
-    const data =
+    id: "toystory4",
+    kind: "movie",
+    title: "Toy Story 4",
+    year: 2019,
+    copyright: "© Disney, Pixar",
+    tables: [
     {
-        title: "Toy Story 4",
-        year: 2019,
-        copyright: "© Disney, Pixar",
-        tables: [],
-    }
-
-    data.tables.push({
         title: "Scenes fully localized",
         folder: "toystory4",
         langs: [
@@ -60,9 +53,8 @@ export default function ToyStory4()
             credits_cast: `Cast section is fully localized amid the original credits.`,
             credits_version: `Extra credit screens at the end of the movie in foreign versions.`,
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes localized generically",
         folder: "toystory4",
         langs: [
@@ -81,9 +73,8 @@ export default function ToyStory4()
             grandbasin_other: `"Est. 1886 / Grand Basin"`,
             rvpark_us: `"RV Park"`,
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes left unlocalized",
         folder: "toystory4",
         langs: [
@@ -94,10 +85,5 @@ export default function ToyStory4()
         ],
         notes: {
         }
-    })
-
-    return <PageGallery data={ data }/>
+    }]
 }
-
-
-Base.main(<ToyStory4/>)

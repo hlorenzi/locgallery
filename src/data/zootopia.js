@@ -1,19 +1,12 @@
-import React from "react"
-import * as Base from "./common/Base.jsx"
-import { PageGallery } from "./common/PageGallery.jsx"
-
-
-export default function Zootopia()
+export const Zootopia =
 {
-    const data =
+    id: "zootopia",
+    kind: "movie",
+    title: "Zootopia",
+    year: 2016,
+    copyright: "© Disney",
+    tables: [
     {
-        title: "Zootopia",
-        year: 2016,
-        copyright: "© Disney",
-        tables: [],
-    }
-
-    data.tables.push({
         title: "Scenes fully localized",
         folder: "zootopia",
         langs: [
@@ -94,9 +87,8 @@ export default function Zootopia()
             credits_cast: `Cast section is fully localized amid the original credits.`,
             credits_version: `Extra credit screens at the end of the movie in foreign versions.`,
         }
-    })
-
-    data.tables.push({
+    },
+    {
         title: "Scenes left unlocalized",
         folder: "zootopia",
         langs: [
@@ -142,10 +134,5 @@ export default function Zootopia()
             stand: `"Duke's officially licensed movies"`,
             credits_gazelle: `Foreign voice actors for regular dialogue aren't superimposed on animation.`,
         }
-    })
-
-    return <PageGallery data={ data }/>
+    }]
 }
-
-
-Base.main(<Zootopia/>)
