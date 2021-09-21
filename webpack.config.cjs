@@ -1,5 +1,4 @@
 const path = require("path")
-const glob = require("glob")
 
 
 module.exports =
@@ -7,7 +6,7 @@ module.exports =
     mode: "production",
 	entry:
     {
-		index: path.resolve(__dirname, "src/index.jsx"),
+		index: path.resolve(__dirname, "src", "index.tsx"),
     },
     
     output:
@@ -16,13 +15,18 @@ module.exports =
         path: path.resolve(__dirname, "pages"),
         publicPath: "/pages/"
     },
+
+    resolve:
+    {
+        extensions: [".ts", ".tsx", ".js", ".jsx"],
+    },
     
     module:
     {
         rules:
         [
             {
-                test: /\.(js|jsx)$/,
+                test: /\.(js|jsx|ts|tsx)$/,
                 exclude: /node_modules/,
                 use:
                 {
@@ -35,7 +39,13 @@ module.exports =
                                 useBuiltIns: "usage",
                                 corejs: 3,
                             }],
-                            "@babel/preset-react"]
+                            ["@babel/preset-react", {}],
+                            ["@babel/preset-typescript",
+                            {
+                                isTSX: true,
+                                allExtensions: true,
+                            }],
+                        ]
                     }
                 }
             }
