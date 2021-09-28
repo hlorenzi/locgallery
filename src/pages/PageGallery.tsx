@@ -79,6 +79,7 @@ const StyledTablePicNotes = styled.div<{
     justify-self: start;
     padding: 0 0.5em;
     margin-bottom: 1em;
+    font-size: 0.9em;
 `
 
 
@@ -117,7 +118,7 @@ export default function PageGallery(props: {
             <br/>
             <span>{ props.data.copyright }</span>
 
-            { props.data.tables.map((table: any, t: number) =>
+            { props.data.tables.map((table: H.Table, t: number) =>
                 <React.Fragment key={ t }>
                     <h2>{ table.title }</h2>
 
@@ -133,31 +134,40 @@ export default function PageGallery(props: {
                         </StyledTableLang>
                     )}
 
-                    { table.pics.map((pic: string, p: number) =>
-                        <React.Fragment key={ p }>
+                    { table.pics.map((pic: H.Pic, p: number) =>
+                    {
+                        const picId = typeof pic === "string" ? pic : pic[0]
+                        const notesAll = typeof pic === "string" ? table.notes[pic] : pic[1]["all"]?.notes
+
+                        return <React.Fragment key={ p }>
 
                             <StyledTablePicHeader
                                 row={ p * 4 + 1 }
                                 col={ table.langs.length }
                             >
-                                { pic }
+                                { picId }
                             </StyledTablePicHeader>
                             
                             <StyledTablePicHeaderNotes
                                 row={ p * 4 + 2 }
                                 col={ table.langs.length }
                             >
-                                <Notes notes={ table.notes[pic] }/>
+                                <Notes notes={ notesAll }/>
                             </StyledTablePicHeaderNotes>
 
                             { table.langs.map((lang: string, l: number) =>
-                                <React.Fragment key={ l }>
+                            {
+                                const usePicLang = typeof pic === "string" ?
+                                    lang :
+                                    pic[1][lang]?.usePic || lang
+
+                                return <React.Fragment key={ l }>
                                     <StyledTablePic
                                         row={ p * 4 + 3 }
                                         col={ l }
                                     >
                                         <img
-                                            src={ `../assets/${ props.data.id }/${ pic }_${ lang }.${ props.data.fileExtension || "jpg" }` }
+                                            src={ `../assets/${ props.data.id }/${ picId }${ usePicLang ? "_" + usePicLang : "" }.${ props.data.fileExtension || "jpg" }` }
                                             style={{
                                                 objectFit: "contain",
                                                 width: props.data.slotWidth ?? "20em",
@@ -170,13 +180,17 @@ export default function PageGallery(props: {
                                         col={ l }
                                         lang={ lang }
                                     >
-                                        <Notes notes={ table.notes[pic + "_" + lang] }/>
+                                        <Notes notes={ 
+                                            typeof pic === "string" ?
+                                                table.notes[picId + "_" + lang] :
+                                                pic[1][lang]?.notes
+                                        }/>
                                     </StyledTablePicNotes>
                                 </React.Fragment>
-                            )}
+                            })}
                         
                         </React.Fragment>
-                    )}
+                    })}
 
                     </StyledTable>
                 </React.Fragment>
@@ -195,6 +209,7 @@ const StyledLiteralTranslation = styled.div`
     background-color: #eee;
     border: 1px solid #aaa;
     border-radius: 0.25em;
+    margin-bottom: 0.25em;
 `
 
 
@@ -205,6 +220,7 @@ const StyledInconsistency = styled.div`
     background-color: #ff6;
     border: 1px solid #cc2;
     border-radius: 0.25em;
+    margin-bottom: 0.25em;
 `
 
 
@@ -215,6 +231,7 @@ const StyledMistake = styled.div`
     background-color: #f66;
     border: 1px solid #c22;
     border-radius: 0.25em;
+    margin-bottom: 0.25em;
 `
 
 
@@ -225,6 +242,7 @@ const StyledOddity = styled.div`
     background-color: #f6f;
     border: 1px solid #c2c;
     border-radius: 0.25em;
+    margin-bottom: 0.25em;
 `
 
 
@@ -246,7 +264,7 @@ function Notes(props: {
 
     const notes: H.Note[] = Array.isArray(props.notes) ? (props.notes as H.Note[]) : [props.notes]
 
-    console.log(notes)
+    //console.log(notes)
     const rendered: JSX.Element[] = []
     for (const note of notes)
     {
@@ -254,70 +272,88 @@ function Notes(props: {
         {
             case "details":
                 rendered.push(
-                    <>
-                    { note.description }
-                    { ` ` }
-                    </>
+                    <React.Fragment key={ rendered.length }>
+                        { note.description }
+                        { ` ` }
+                    </React.Fragment>
                 )
                 break
 
 
             case "transcription":
                 rendered.push(
-                    <>
-                    { `"${ note.text }"` }
-                    { !note.reading ? `` : ` [${ note.reading }]` }
-                    { `. ` }
-                    { !note.literalTranslation ? `` : 
-                        <>
+                    <React.Fragment key={ rendered.length }>
+                        { `"${ note.text }"` }
+                        { !note.reading ? `` : ` [${ note.reading }]` }
+                        { `. ` }
+                        { !note.standardized ? `` : 
+                            <>
+                            <StyledLiteralTranslation>
+                                <StyledLabel>
+                                    { `Standardized` }
+                                </StyledLabel>
+                                { ` ` }
+                                { `"${ note.standardized }"` }
+                            </StyledLiteralTranslation>
+                            </>
+                        }
+                    </React.Fragment>
+                )
+                break
+                
+            case "literalTranslation":
+                rendered.push(
+                    <React.Fragment key={ rendered.length }>
                         <StyledLiteralTranslation>
                             <StyledLabel>
-                                { `Literally ` }
+                                { `Literally` }
                             </StyledLabel>
-                            { `"${ note.literalTranslation }"` }
+                            { ` ` }
+                            { note.description }
                         </StyledLiteralTranslation>
-                        </>
-                    }
-                    </>
+                    </React.Fragment>
                 )
                 break
                 
             case "inconsistency":
                 rendered.push(
-                    <>
-                    <StyledInconsistency>
-                        <StyledLabel>
-                            { `⚠️ Inconsistency ` }
-                        </StyledLabel>
-                        { note.description }
-                    </StyledInconsistency>
-                    </>
+                    <React.Fragment key={ rendered.length }>
+                        <StyledInconsistency>
+                            <StyledLabel>
+                                { `⚠️ Inconsistency` }
+                            </StyledLabel>
+                            { ` ` }
+                            { note.description }
+                        </StyledInconsistency>
+                    </React.Fragment>
                 )
                 break
                 
             case "mistake":
                 rendered.push(
-                    <>
-                    <StyledMistake>
-                        <StyledLabel>
-                            { `⛔ Mistake ` }
-                        </StyledLabel>
-                        { note.description }
-                    </StyledMistake>
-                    </>
+                    <React.Fragment key={ rendered.length }>
+                        <StyledMistake>
+                            <StyledLabel>
+                                { `⛔ Mistake` }
+                            </StyledLabel>
+                            { ` ` }
+                            { note.description }
+                        </StyledMistake>
+                    </React.Fragment>
                 )
                 break
                 
             case "oddity":
                 rendered.push(
-                    <>
-                    <StyledOddity>
-                        <StyledLabel>
-                            { `❓ Oddity ` }
-                        </StyledLabel>
-                        { note.description }
-                    </StyledOddity>
-                    </>
+                    <React.Fragment key={ rendered.length }>
+                        <StyledOddity>
+                            <StyledLabel>
+                                { `❓ Oddity` }
+                            </StyledLabel>
+                            { ` ` }
+                            { note.description }
+                        </StyledOddity>
+                    </React.Fragment>
                 )
                 break
         }

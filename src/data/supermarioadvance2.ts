@@ -6,7 +6,7 @@ export const SuperMarioAdvance2: H.Record =
     id: "supermarioadvance2",
     kind: "game",
     title: "Super Mario Advance 2",
-    year: 2002,
+    year: 2001,
     copyright: "© Nintendo",
     slotWidth: "15em",
     slotHeight: "10em",
@@ -20,17 +20,58 @@ export const SuperMarioAdvance2: H.Record =
             "es",
             "fr",
             "ja",
+            "zh",
         ],
         pics: [
             "choosefile",
             "erasefile",
-            "intro",
+            ["intro", {
+                "us": { notes: H.transcription(
+                    `Welcome to Dinosaur Land! It seems that Princess ` +
+                    `Toadstool is missing...and that means Bowser must ` +
+                    `be up to his old tricks again!`)
+                },
+                "ja": { notes: [
+                    H.transcription(
+                        `こんどのぶたいは　きょうりゅうランド　` +
+                        `なにやらあやしいこのしまで　またもや　` +
+                        `ピーチひめが　すがたをけした。` +
+                        `こいつはきっと　クッパのしわざ！`,
+                        undefined,
+                        `今度の舞台は恐竜ランド。` +
+                        `なにやら怪しいこの島でまたもや` +
+                        `ピーチ姫が姿を消した。` +
+                        `こいつはきっとクッパの仕業！`),
+                    H.literally(
+                        `"This time, the setting is Dinosaur Land. ` +
+                        `Somehow, on this strange island, Princess ` +
+                        `Peach has once again vanished. ` +
+                        `This is surely Bowser's doing!"`)
+                    ]
+                },
+            }],
             "stage_yoshishouse",
-            "yoshi_note",
+            "msg_yoshi",
             "stage_yoshisisland1",
             "msg_spinjump",
-            "stage_yellowswitchpalace",
-            "switchpalace",
+            "msg_itembox",
+            "msg_pickup",
+            ["stage_yellowswitchpalace", {
+                "de": { notes: H.transcription(
+                    `Glb. Schalterpalast`,
+                    undefined,
+                    `Gelber Schalterpalast`),
+                },
+                "ja": { notes: [
+                    H.transcription(
+                        `かっぱやま　きいろスイッチ`,
+                        undefined,
+                        `河童山　黄色スイッチ`),
+                    H.literally(
+                        `"Kappa Mountain - Yellow Switch"`),
+                ]},
+            }],
+            "msg_switchpalace",
             "pause",
             "gameover_prompt",
         ],
@@ -42,27 +83,37 @@ export const SuperMarioAdvance2: H.Record =
         langs: [
             "us",
             "ja",
+            "zh",
         ],
         pics: [
             "title",
             "gameselect",
             "title2",
             "yoshi_sign",
+            "stageselected",
+            ["mariostart", {
+                "ja": { usePic: "us" } }
+            ],
+            ["courseclear", {
+                "ja": { usePic: "us" } }
+            ],
+            ["timeup", {
+                "ja": { usePic: "us" } }
+            ],
+            ["gameover", {
+                "ja": { usePic: "us" } }
+            ],
         ],
         notes: {
         }
     },
     {
-        title: "Scenes left unlocalized",
+        title: "Other scenes",
         langs: [
-            "us",
+            "",
         ],
         pics: [
             "chooselanguage",
-            "mariostart",
-            "courseclear",
-            "timeup",
-            "gameover",
         ],
         notes: {
         }
