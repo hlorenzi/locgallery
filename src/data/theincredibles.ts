@@ -78,7 +78,7 @@ export const TheIncredibles: H.Record =
             newspaper2_us: `"X-ray vision peeping tom?"`,
             newspaper2_br: [
                 H.transcription(`Xereta com visão de raio-X?`),
-                H.mistake(`The preferred spelling would be "raios X" (plural, no hyphen).`),
+                H.oddity(`The preferred spelling would be "raios X" (plural, no hyphen).`),
             ],
             newspaper3_us: `"$uper damage$ / Another bold rescue ends in disaster, landmark damaged, scores injured".`,
             newspaper3_br: `"Super prejuízos". Not stylized with dollar signs, and the second line is missing.`,

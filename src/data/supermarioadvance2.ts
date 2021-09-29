@@ -46,7 +46,18 @@ export const SuperMarioAdvance2: H.Record =
                         `"This time, the setting is Dinosaur Land. ` +
                         `Somehow, on this strange island, Princess ` +
                         `Peach has once again vanished. ` +
-                        `This is surely Bowser's doing!"`)
+                        `This is surely Koopa's doing!"`)
+                    ]
+                },
+                "zh": { notes: [
+                    H.transcription(
+                        `欢迎来到恐龙大陆！看起来，` +
+                        `桃花公主似乎又失踪了……` +
+                        `一定是酷霸王又在耍他的老把戏了。`),
+                    H.literally(
+                        `"Welcome to Dinosaur Land! It seems that Princess Peach ` +
+                        `has disappeared again... It must be King Koopa playing ` +
+                        `his old tricks again."`),
                     ]
                 },
             }],
@@ -72,7 +83,8 @@ export const SuperMarioAdvance2: H.Record =
                 ]},
             }],
             "msg_switchpalace",
-            "pause",
+            "pause1",
+            "pause2",
             "gameover_prompt",
         ],
         notes: {

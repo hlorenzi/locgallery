@@ -202,6 +202,12 @@ export default function PageGallery(props: {
 }
 
 
+const StyledTranscription = styled.span`
+    display: inline-block;
+    margin-bottom: 0.25em;
+`
+
+
 const StyledLiteralTranslation = styled.div`
     display: inline-block;
     padding-left: 0.5em;
@@ -239,8 +245,8 @@ const StyledOddity = styled.div`
     display: inline-block;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    background-color: #f6f;
-    border: 1px solid #c2c;
+    background-color: #f66;
+    border: 1px solid #c22;
     border-radius: 0.25em;
     margin-bottom: 0.25em;
 `
@@ -283,9 +289,11 @@ function Notes(props: {
             case "transcription":
                 rendered.push(
                     <React.Fragment key={ rendered.length }>
-                        { `"${ note.text }"` }
-                        { !note.reading ? `` : ` [${ note.reading }]` }
-                        { `. ` }
+                        <StyledTranscription>
+                            { `"${ note.text }"` }
+                            { !note.reading ? `` : ` [${ note.reading }]` }
+                        </StyledTranscription>
+                        { ` ` }
                         { !note.standardized ? `` : 
                             <>
                             <StyledLiteralTranslation>
