@@ -9,3 +9,4 @@ export * from "./up"
 export * from "./zootopia"
 
 export * from "./supermarioadvance2"
+export * from "./supermarioodyssey"

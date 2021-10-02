@@ -17,6 +17,7 @@ export const InsideOut: H.Record =
             "br",
             "es",
             "jp",
+            "he",
         ],
         pics: [
             "plate1",

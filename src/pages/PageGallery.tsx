@@ -1,6 +1,7 @@
 import * as React from "react"
 import styled from "styled-components"
 import * as H from "../data/helpers"
+import { Image } from "./Image"
 
 
 const StyledPage = styled.div`
@@ -166,13 +167,11 @@ export default function PageGallery(props: {
                                         row={ p * 4 + 3 }
                                         col={ l }
                                     >
-                                        <img
+                                        <Image
                                             src={ `../assets/${ props.data.id }/${ picId }${ usePicLang ? "_" + usePicLang : "" }.${ props.data.fileExtension || "jpg" }` }
-                                            style={{
-                                                objectFit: "contain",
-                                                width: props.data.slotWidth ?? "20em",
-                                                height: props.data.slotHeight ?? "9em",
-                                        }}/>
+                                            width={ props.data.slotWidth }
+                                            height={ props.data.slotHeight }
+                                        />
                                     </StyledTablePic>
                                 
                                     <StyledTablePicNotes

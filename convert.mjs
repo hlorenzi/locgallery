@@ -44,7 +44,7 @@ async function convertToJpg(name)
     const data = await img.metadata()
 
     const cropX = 0
-    const cropY = 112
+    const cropY = 0
 
     const left = Math.floor(cropX)
     const width = Math.floor(data.width - cropX * 2)
@@ -54,7 +54,7 @@ async function convertToJpg(name)
     const newName = name.replace(".png", ".jpg")
     
     await img
-        .extract({ left, top, width, height })
+        .resize({ width: 1280, height: 720 })
         .toFormat("jpeg")
         .toFile(newName)
 }
