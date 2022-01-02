@@ -79,7 +79,7 @@ export const SuperMarioAdvance2: H.Record =
                         undefined,
                         `河童山　黄色スイッチ`),
                     H.literally(
-                        `"Kappa Mountain - Yellow Switch"`),
+                        `"Kappa Mountain - Switch (Yellow)"`),
                 ]},
             }],
             "msg_switchpalace",

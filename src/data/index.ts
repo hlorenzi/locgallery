@@ -8,5 +8,6 @@ export * from "./toystory4"
 export * from "./up"
 export * from "./zootopia"
 
+export * from "./supermarioworld"
 export * from "./supermarioadvance2"
 export * from "./supermarioodyssey"
