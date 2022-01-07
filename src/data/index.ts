@@ -1,13 +1,4 @@
-export * from "./coco"
-export * from "./frozen"
-export * from "./incredibles2"
-export * from "./insideout"
-export * from "./onward"
-export * from "./theincredibles"
-export * from "./toystory4"
-export * from "./up"
-export * from "./zootopia"
+import * as Entries from "./_entries"
 
-export * from "./supermarioworld"
-export * from "./supermarioadvance2"
-export * from "./supermarioodyssey"
+
+export const entries = Object.values(Entries)

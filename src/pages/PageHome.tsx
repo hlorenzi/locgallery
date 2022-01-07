@@ -1,5 +1,6 @@
 import * as React from "react"
 import styled from "styled-components"
+import * as H from "../data/helpers"
 
 
 
@@ -14,7 +15,9 @@ const StyledContent = styled.div`
 `
 
 
-export default function PageHome(props: any)
+export default function PageHome(props: {
+    entries: H.Record[],
+})
 {
     const entriesSorted = [...props.entries].sort((a, b) => a.year - b.year)
     const entriesMovies = entriesSorted.filter(e => e.kind == "movie")

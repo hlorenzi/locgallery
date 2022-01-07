@@ -15,7 +15,7 @@ function buildHtml()
         fs.mkdirSync(buildFolder)
 
     fs.writeFileSync(buildFolder + "index.html", htmlBase)
-    for (const entry of Object.values(Data))
+    for (const entry of Data.entries)
         fs.writeFileSync(buildFolder + entry.id + ".html", htmlBase)
 }
 

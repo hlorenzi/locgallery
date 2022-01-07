@@ -8,6 +8,7 @@ export interface Record
     slotWidth?: string
     slotHeight?: string
     fileExtension?: string
+    compareWith?: string[]
     tables: Table[]
 }
 

@@ -11,6 +11,7 @@ export const SuperMarioAdvance2: H.Record =
     slotWidth: "15em",
     slotHeight: "10em",
     fileExtension: "png",
+    compareWith: ["supermarioworld"],
     tables:
     [{
         title: "Scenes fully localized",

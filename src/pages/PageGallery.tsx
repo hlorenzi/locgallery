@@ -99,10 +99,17 @@ const preprocessNote = (str: string) =>
 
 
 export default function PageGallery(props: {
+    entries: H.Record[],
     data: H.Record,
 })
 {
     document.title = props.data.title + " • LocGallery"
+
+    const [comparingWith, setComparingWith] = React.useState("none")
+    const comparingRecord =
+        comparingWith ?
+            props.entries.find(e => e.id === comparingWith)! :
+            null
 
     return <StyledPage>
 
@@ -119,13 +126,51 @@ export default function PageGallery(props: {
             <br/>
             <span>{ props.data.copyright }</span>
 
+            { props.data.compareWith &&
+                <>
+                <br/>
+                <br/>
+                <div>
+                    Compare with:
+                    { " " }
+                    <select
+                        value={ comparingWith }
+                        onChange={ ev => setComparingWith(ev.target.value) }
+                    >
+                        <option value="none">---</option>
+                        
+                        { props.data.compareWith.map(id =>
+                            <option key={ id } value={ id }>
+                                { props.entries.find(e => e.id === id)!.title }
+                            </option>
+                        )}
+                    </select>
+                </div>
+                </>
+            }
+
             { props.data.tables.map((table: H.Table, t: number) =>
-                <React.Fragment key={ t }>
+            {
+                const langs = [...table.langs]
+                const otherTable = comparingRecord?.tables.find(t => t.title === table.title)
+                if (otherTable)
+                {
+                    for (const otherLang of otherTable.langs)
+                    {
+                        const index = langs.indexOf(otherLang)
+                        if (index < 0)
+                            langs.push(otherLang + "2")
+                        else
+                            langs.splice(index + 1, 0, otherLang + "2")
+                    }
+                }
+
+                return <React.Fragment key={ t }>
                     <h2>{ table.title }</h2>
 
                     <StyledTable key={ t }>
 
-                    { table.langs.map((lang: string, l: number) =>
+                    { langs.map((lang: string, l: number) =>
                         <StyledTableLang
                             key={ l }
                             row={ 0 }
@@ -144,33 +189,50 @@ export default function PageGallery(props: {
 
                             <StyledTablePicHeader
                                 row={ p * 4 + 1 }
-                                col={ table.langs.length }
+                                col={ langs.length }
                             >
                                 { picId }
                             </StyledTablePicHeader>
                             
                             <StyledTablePicHeaderNotes
                                 row={ p * 4 + 2 }
-                                col={ table.langs.length }
+                                col={ langs.length }
                             >
                                 <Notes notes={ notesAll }/>
                             </StyledTablePicHeaderNotes>
 
-                            { table.langs.map((lang: string, l: number) =>
+                            { langs.map((lang: string, l: number) =>
                             {
+                                let origLang = lang
+
+                                let data = props.data
+                                if (lang.endsWith("2"))
+                                {
+                                    data = comparingRecord!
+                                    lang = lang.slice(0, lang.length - 1)
+
+                                    const otherPic = otherTable!.pics.find(p => typeof p === "string" ? p === picId : p[0] === picId)
+                                    if (otherPic)
+                                        pic = otherPic
+                                }
+
                                 const usePicLang = typeof pic === "string" ?
                                     lang :
                                     pic[1][lang]?.usePic || lang
 
-                                return <React.Fragment key={ l }>
+                                const notes = typeof pic === "string" ?
+                                    table.notes[picId + "_" + lang] :
+                                    pic[1][lang]?.notes
+
+                                return <React.Fragment key={ origLang }>
                                     <StyledTablePic
                                         row={ p * 4 + 3 }
                                         col={ l }
                                     >
                                         <Image
-                                            src={ `../assets/${ props.data.id }/${ picId }${ usePicLang ? "_" + usePicLang : "" }.${ props.data.fileExtension || "jpg" }` }
-                                            width={ props.data.slotWidth }
-                                            height={ props.data.slotHeight }
+                                            src={ `../assets/${ data.id }/${ picId }${ usePicLang ? "_" + usePicLang : "" }.${ data.fileExtension || "jpg" }` }
+                                            width={ data.slotWidth }
+                                            height={ data.slotHeight }
                                         />
                                     </StyledTablePic>
                                 
@@ -179,11 +241,7 @@ export default function PageGallery(props: {
                                         col={ l }
                                         lang={ lang }
                                     >
-                                        <Notes notes={ 
-                                            typeof pic === "string" ?
-                                                table.notes[picId + "_" + lang] :
-                                                pic[1][lang]?.notes
-                                        }/>
+                                        <Notes notes={ notes }/>
                                     </StyledTablePicNotes>
                                 </React.Fragment>
                             })}
@@ -193,7 +251,7 @@ export default function PageGallery(props: {
 
                     </StyledTable>
                 </React.Fragment>
-            )}
+            })}
 
         </StyledContent>
 

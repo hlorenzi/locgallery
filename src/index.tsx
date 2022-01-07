@@ -6,13 +6,11 @@ import PageGallery from "./pages/PageGallery"
 
 
 const path = window.location.href.split("/")
-console.log(path)
 
-const entries = Object.values(Data)
-const matchingData = entries.find(data => data.id === path[path.length - 1])
+const matchingData = Data.entries.find(data => data.id === path[path.length - 1])
 
-let elem = <PageHome entries={ entries }/>
+let elem = <PageHome entries={ Data.entries }/>
 if (matchingData)
-    elem = <PageGallery data={ matchingData }/>
+    elem = <PageGallery entries={ Data.entries } data={ matchingData }/>
 
 ReactDOM.render(elem, document.getElementById("divApp"))
