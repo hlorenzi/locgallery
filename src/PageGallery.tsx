@@ -246,6 +246,7 @@ export function ColumnHeader(props: {
         "de-DE": ["de", "German", "Germany"],
         "es-ES": ["es", "Spanish", "Spain"],
         "es-419": ["mx", "Spanish", "Latin America"],
+        "fr-CA": ["ca", "French", "Canada"],
         "fr-FR": ["fr", "French", "France"],
         "he-IL": ["il", "Hebrew", "Israel"],
         "it-IT": ["it", "Italian", "Italy"],
