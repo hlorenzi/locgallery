@@ -1,0 +1,567 @@
+{
+  "kind": "movie",
+  "title": "Onward",
+  "year": 2020,
+  "copyright": "Disney, Pixar",
+  "aspectRatio": 2.3950995405819295,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "Scenes fully localized",
+      "columns": [
+        "en-US",
+        "es-419",
+        "de-DE",
+        "nl-NL",
+        "pt-BR"
+      ],
+      "rows": [
+        "title",
+        "hand",
+        "list1",
+        "cassette",
+        "letter1",
+        "letter2",
+        "letter3",
+        "plaque",
+        "puzzle",
+        "plate1",
+        "list2",
+        "list2b",
+        "plate2",
+        "credits_cast",
+        "credits_version"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "title[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "title[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "title[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "title[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "title[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "hand[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "hand[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "hand[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "hand[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "hand[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "list1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list1[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list1[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list1[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list1[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "cassette[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cassette[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cassette[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cassette[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cassette[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "letter1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter1[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter1[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter1[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter1[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "letter2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter2[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter2[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter2[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter2[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "letter3[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter3[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter3[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter3[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "letter3[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "plaque[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plaque[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plaque[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plaque[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plaque[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "puzzle[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "puzzle[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "puzzle[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "puzzle[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "puzzle[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "plate1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate1[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate1[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate1[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate1[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "list2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list2[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list2[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list2[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list2[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "list2b[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list2b[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list2b[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list2b[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "list2b[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "plate2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "plate2[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate2[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate2[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "credits_cast[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_cast[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_cast[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_cast[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_cast[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[pt-BR].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes localized generically",
+      "columns": [
+        "en-US",
+        "other"
+      ],
+      "rows": [
+        "calendar",
+        "godragons",
+        "card1",
+        "card2",
+        "dashboard",
+        "highway",
+        "map"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "calendar[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "calendar[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "godragons[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "godragons[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "card1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "card1[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "card2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "card2[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "dashboard[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "dashboard[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "highway[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "highway[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "map[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "map[other].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes left unlocalized",
+      "columns": [
+        ""
+      ],
+      "rows": [
+        "cellphone",
+        "school",
+        "pinboard",
+        "sweater",
+        "letter4",
+        "wristwatch",
+        "gaspump",
+        "spellbook",
+        "stone"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "cellphone.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "school.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "pinboard.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "sweater.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "letter4.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "wristwatch.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "gaspump.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "spellbook.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "stone.jpg",
+            "notes": []
+          }
+        ]
+      ]
+    }
+  ]
+}

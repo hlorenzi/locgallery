@@ -1,0 +1,261 @@
+{
+  "kind": "game",
+  "title": "Super Mario World",
+  "year": 1990,
+  "copyright": "Nintendo",
+  "aspectRatio": 1.1428571428571428,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "Scenes fully localized",
+      "columns": [
+        "ja-JP",
+        "en-US"
+      ],
+      "rows": [
+        "title",
+        "choosefile",
+        "erasefile",
+        "intro",
+        "stage_yoshishouse",
+        "yoshi_sign",
+        "msg_yoshi",
+        "stage_yoshisisland1",
+        "msg_itembox",
+        "msg_pickup",
+        "stage_yellowswitchpalace",
+        "msg_switchpalace",
+        "save_prompt",
+        "gameover_prompt"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "title[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "title[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "choosefile[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "choosefile[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "erasefile[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "erasefile[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "intro[ja-JP].bmp",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "こんどのぶたいは　きょうりゅうランド　なにやらあやしい　このしまで　またもやピーチが　すがたをけした。こいつはきっと　クッパのしわざ！"
+              },
+              {
+                "kind": "standardization",
+                "text": "今度の舞台は恐竜ランド。なにやら怪しいこの島でまたもやピーチが姿を消した。こいつはきっとクッパの仕業！"
+              },
+              {
+                "kind": "translation",
+                "text": "This time, the setting is Dinosaur Land. Somehow, on this strange island, Peach has once again vanished. This is surely Koopa's doing!"
+              }
+            ]
+          },
+          {
+            "filename": "intro[en-US].bmp",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Welcome! This is Dinosaur Land. In this strange land we find that Princess Toadstool is missing again! Looks like Bowser is at it again!"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "stage_yoshishouse[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshishouse[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "yoshi_sign[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "yoshi_sign[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "msg_yoshi[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "msg_yoshi[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "stage_yoshisisland1[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshisisland1[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "msg_itembox[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "msg_itembox[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "msg_pickup[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "msg_pickup[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "stage_yellowswitchpalace[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "stage_yellowswitchpalace[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "msg_switchpalace[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "msg_switchpalace[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "save_prompt[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "save_prompt[en-US].bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "gameover_prompt[ja-JP].bmp",
+            "notes": []
+          },
+          {
+            "filename": "gameover_prompt[en-US].bmp",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes left unlocalized",
+      "columns": [
+        ""
+      ],
+      "rows": [
+        "selectplayers",
+        "mariostart",
+        "courseclear",
+        "timeup",
+        "gameover"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "selectplayers.bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "mariostart.bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "courseclear.bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "timeup.bmp",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "gameover.bmp",
+            "notes": []
+          }
+        ]
+      ]
+    }
+  ]
+}

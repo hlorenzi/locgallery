@@ -1,0 +1,409 @@
+{
+  "kind": "movie",
+  "title": "Incredibles 2",
+  "year": 2018,
+  "copyright": "Disney, Pixar",
+  "aspectRatio": 2.3820033955857385,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "Scenes fully localized",
+      "columns": [
+        "en-US",
+        "pt-BR",
+        "nl-NL"
+      ],
+      "rows": [
+        "title",
+        "businesscard",
+        "note",
+        "math",
+        "welcomeback",
+        "stilloutthere",
+        "news_savestrain",
+        "teleprompter",
+        "news_onthephone",
+        "news_exclusive",
+        "accord",
+        "camera",
+        "credits_cast",
+        "credits_version"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Cast section is localized amid the original credits."
+          }
+        ],
+        [
+          {
+            "kind": "info",
+            "text": "Extra credit screens at the end of the movie in foreign versions."
+          }
+        ]
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "title[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Incredibles 2"
+              }
+            ]
+          },
+          {
+            "filename": "title[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Os Incríveis 2"
+              },
+              {
+                "kind": "translation",
+                "text": "The Incredibles 2"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "businesscard[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "businesscard[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "note[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "note[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "math[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "math[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "welcomeback[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "welcomeback[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "stilloutthere[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "stilloutthere[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "news_savestrain[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "news_savestrain[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "teleprompter[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "teleprompter[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "news_onthephone[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "news_exclusive[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "news_exclusive[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "accord[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "accord[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "camera[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "camera[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "camera[nl-NL].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "credits_cast[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_cast[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_cast[nl-NL].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes localized generically",
+      "columns": [
+        "en-US",
+        "other"
+      ],
+      "rows": [
+        "fourthdimension",
+        "doozles",
+        "followboat1",
+        "followboat2",
+        "followboat3",
+        "commanddial"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "fourthdimension[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "fourthdimension[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "doozles[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "doozles[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "followboat1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "followboat1[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "followboat2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "followboat2[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "followboat3[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "followboat3[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "commanddial[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "commanddial[other].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes left unlocalized",
+      "columns": [
+        ""
+      ],
+      "rows": [
+        "banks",
+        "safaricourt",
+        "happyplatter",
+        "everjust",
+        "news_everjust"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "banks.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "safaricourt.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "happyplatter.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "everjust.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "news_everjust.jpg",
+            "notes": []
+          }
+        ]
+      ]
+    }
+  ]
+}

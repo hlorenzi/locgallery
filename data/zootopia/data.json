@@ -1,0 +1,633 @@
+{
+  "kind": "movie",
+  "title": "Zootopia",
+  "year": 2016,
+  "copyright": "Disney",
+  "aspectRatio": 2.38265306122449,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "Scenes fully localized",
+      "columns": [
+        "en-US",
+        "en-GB",
+        "pt-BR"
+      ],
+      "rows": [
+        "presents",
+        "title",
+        "boxes",
+        "banner",
+        "academy",
+        "fifteenyears",
+        "ceremony",
+        "welcome",
+        "refuseservice",
+        "bank",
+        "carrotforone",
+        "folder",
+        "file",
+        "trafficsystem",
+        "mug",
+        "news1",
+        "news2",
+        "news3",
+        "poster",
+        "news4",
+        "news5",
+        "news6",
+        "credits_characters1",
+        "credits_characters2",
+        "credits_cast",
+        "credits_version"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "presents[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "presents[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "title[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "title[en-GB].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Zootropolis"
+              }
+            ]
+          },
+          {
+            "filename": "title[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "boxes[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "boxes[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "banner[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "banner[en-GB].jpg",
+            "notes": []
+          },
+          {
+            "filename": "banner[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "academy[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "academy[en-GB].jpg",
+            "notes": []
+          },
+          {
+            "filename": "academy[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "fifteenyears[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "fifteenyears[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "ceremony[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "ceremony[en-GB].jpg",
+            "notes": []
+          },
+          {
+            "filename": "ceremony[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "welcome[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "welcome[en-GB].jpg",
+            "notes": []
+          },
+          {
+            "filename": "welcome[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "refuseservice[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "refuseservice[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "bank[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "bank[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "carrotforone[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "carrotforone[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "folder[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "folder[en-GB].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "file[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "file[en-GB].jpg",
+            "notes": []
+          },
+          {
+            "filename": "file[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "trafficsystem[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "trafficsystem[en-GB].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "mug[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "mug[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "news1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "news1[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "news2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "news2[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "news3[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "news3[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "poster[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "poster[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "news4[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "news4[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "news5[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "news5[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "news6[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "news6[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "credits_characters1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "credits_characters1[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "credits_characters2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "credits_characters2[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "credits_cast[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "credits_cast[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[pt-BR].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes left unlocalized",
+      "columns": [
+        ""
+      ],
+      "rows": [
+        "carnival",
+        "goodluck",
+        "bunnyburrow",
+        "tundratown",
+        "juicebar",
+        "foxaway",
+        "expired",
+        "refuseservice_glimpse",
+        "pawpsicle",
+        "cellphone",
+        "littlerodentia",
+        "dmv",
+        "printout",
+        "application",
+        "office",
+        "newspaper",
+        "truck",
+        "stand",
+        "bootleg1",
+        "bootleg2",
+        "cliffside",
+        "credits_gazelle"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "carnival.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "goodluck.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "bunnyburrow.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "tundratown.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "juicebar.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "foxaway.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "expired.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "refuseservice_glimpse.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "pawpsicle.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "cellphone.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "littlerodentia.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "dmv.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "printout.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "application.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "office.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newspaper.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "truck.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "stand.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "bootleg1.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "bootleg2.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "cliffside.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "credits_gazelle.jpg",
+            "notes": []
+          }
+        ]
+      ]
+    }
+  ]
+}

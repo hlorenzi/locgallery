@@ -1,0 +1,456 @@
+{
+  "kind": "movie",
+  "title": "Toy Story 4",
+  "year": 2019,
+  "copyright": "Disney, Pixar",
+  "aspectRatio": 2.386206896551724,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "",
+      "columns": [
+        "en-US",
+        "pt-BR",
+        "nl-NL"
+      ],
+      "rows": [
+        "nineyearsago",
+        "presents1",
+        "presents2",
+        "title",
+        "carnivaldays",
+        "antiques1",
+        "antiques2",
+        "book1",
+        "book2",
+        "book3",
+        "credits_cast",
+        "credits_version"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Cast section is fully localized amid the original credits."
+          }
+        ],
+        [
+          {
+            "kind": "info",
+            "text": "Extra credit screens at the end of the movie in foreign versions."
+          }
+        ]
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "nineyearsago[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Nine years ago"
+              }
+            ]
+          },
+          {
+            "filename": "nineyearsago[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Nove anos atrás"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "presents1[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Disney presents"
+              }
+            ]
+          },
+          {
+            "filename": "presents1[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Disney apresenta"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "presents2[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "A Pixar Animation Studios film"
+              }
+            ]
+          },
+          {
+            "filename": "presents2[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Um filme da Pixar Animation Studios"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "title[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Toy Story 4"
+              }
+            ]
+          },
+          {
+            "filename": "title[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Toy Story 4"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "carnivaldays[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Last week of August / Welcome to the town of Grand Basin / Carnival Days / A week of games, rides, and celebration / For the whole family"
+              }
+            ]
+          },
+          {
+            "filename": "carnivaldays[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Dias de Diversão"
+              },
+              {
+                "kind": "translation",
+                "text": "Days of Fun"
+              }
+            ]
+          },
+          {
+            "filename": "carnivaldays[nl-NL].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Carnival Days"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "antiques1[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Antiques"
+              }
+            ]
+          },
+          {
+            "filename": "antiques1[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Antiquário"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "antiques2[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Sorry, we're closed / Second Chance Antiques / Est. 1986"
+              }
+            ]
+          },
+          {
+            "filename": "antiques2[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Desculpe, estamos fechados / Segunda Chance Antiquário / Desde 1986"
+              },
+              {
+                "kind": "oddity",
+                "text": "More naturally worded in the dub as \"Antiquário Segunda Chance\" (swapped word order)."
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "book1[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Gabby Gabby / Let's be friends!"
+              }
+            ]
+          },
+          {
+            "filename": "book1[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Gabby Gabby / Vamos ser amigas!"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "book2[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "We are best friends, my Gabby and me. Each afternoon we break for tea."
+              }
+            ]
+          },
+          {
+            "filename": "book2[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Nós somos melhores amigas, minha Gabby e eu. Todas as tardes tomamos chá juntas."
+              },
+              {
+                "kind": "oddity",
+                "text": "Translated literally, without employing rhyme or a meter pattern."
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "book3[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "I tell her my [problems.] She always [listens.] / In [...] we're always [...]"
+              }
+            ]
+          },
+          {
+            "filename": "book3[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Eu falo dos meus [problemas.] Ela sempre me [escuta.]"
+              },
+              {
+                "kind": "info",
+                "text": "The space for the second stanza has been left blank."
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "credits_cast[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_cast[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[nl-NL].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes localized generically",
+      "columns": [
+        "en-US",
+        "other"
+      ],
+      "rows": [
+        "sign",
+        "grandbasin",
+        "rvpark"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "sign[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Grand Basin / Rest Area"
+              }
+            ]
+          },
+          {
+            "filename": "sign[other].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Grand Basin"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "grandbasin[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Historic Downtown / Grand Basin / Est. 1886"
+              }
+            ]
+          },
+          {
+            "filename": "grandbasin[other].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Est. 1886 / Grand Basin"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "rvpark[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "RV Park"
+              }
+            ]
+          },
+          {
+            "filename": "rvpark[other].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Unclear if localized",
+      "columns": [
+        "en-US",
+        "pt-BR"
+      ],
+      "rows": [
+        "name"
+      ],
+      "rowNotes": [
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "name[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Bonnie"
+              }
+            ]
+          },
+          {
+            "filename": "name[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Bonnie"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

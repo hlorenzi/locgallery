@@ -4,6 +4,7 @@ const path = require("path")
 module.exports =
 {
     mode: "production",
+	devtool: "source-map",
 	entry:
     {
 		index: path.resolve(__dirname, "src", "index.tsx"),
@@ -12,8 +13,8 @@ module.exports =
     output:
     {
         filename: "[name].js",
-        path: path.resolve(__dirname, "pages"),
-        publicPath: "/pages/"
+        path: path.resolve(__dirname, "build"),
+        publicPath: "/build/"
     },
 
     resolve:

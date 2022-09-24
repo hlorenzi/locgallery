@@ -1,0 +1,1308 @@
+{
+  "kind": "game",
+  "title": "Super Mario Odyssey",
+  "year": 2017,
+  "copyright": "Nintendo",
+  "aspectRatio": 1.7777777777777777,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "Scenes fully localized",
+      "columns": [
+        "en-US",
+        "de-DE",
+        "es-419",
+        "fr-FR",
+        "it-IT",
+        "ja-JP",
+        "ko-KR",
+        "nl-NL",
+        "ru-RU",
+        "zh-CN",
+        "zh-TW"
+      ],
+      "rows": [
+        "start",
+        "start_assistmode",
+        "intro",
+        "intro2",
+        "intro3",
+        "intro4",
+        "intro5",
+        "mainhud",
+        "pause",
+        "monster",
+        "thosetwo",
+        "cappycompanion",
+        "throwcap",
+        "arealabel",
+        "frogcaptured",
+        "dash",
+        "arealabel2",
+        "broodals",
+        "kingdom",
+        "mission",
+        "yougotamoon",
+        "yougotamoon2",
+        "chainchompikins",
+        "yougotamultimoon",
+        "odysseyrestored",
+        "newkingdom"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "start[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "start[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "start_assistmode[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start_assistmode[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start_assistmode[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start_assistmode[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "start_assistmode[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "intro[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "intro2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro2[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro2[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro2[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro2[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro2[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro2[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "intro2[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro2[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro2[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "intro3[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro3[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro3[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro3[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro3[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro3[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro3[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "intro3[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro3[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro3[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "intro4[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro4[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro4[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro4[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro4[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro4[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro4[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "intro4[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro4[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro4[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "intro5[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro5[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro5[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro5[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro5[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro5[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro5[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "intro5[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro5[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "intro5[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "mainhud[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mainhud[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mainhud[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mainhud[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mainhud[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mainhud[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mainhud[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "mainhud[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mainhud[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mainhud[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "pause[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "pause[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "pause[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "pause[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "monster[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "monster[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "monster[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "monster[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "monster[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "monster[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "monster[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "monster[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "monster[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "monster[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "thosetwo[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "thosetwo[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "thosetwo[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "thosetwo[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "thosetwo[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "thosetwo[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "thosetwo[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "thosetwo[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "thosetwo[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "thosetwo[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "cappycompanion[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cappycompanion[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cappycompanion[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cappycompanion[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cappycompanion[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cappycompanion[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cappycompanion[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "cappycompanion[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cappycompanion[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cappycompanion[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "throwcap[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "throwcap[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "throwcap[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "throwcap[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "throwcap[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "throwcap[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "throwcap[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "throwcap[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "throwcap[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "throwcap[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "arealabel[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "arealabel[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "frogcaptured[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "frogcaptured[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "frogcaptured[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "frogcaptured[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "frogcaptured[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "frogcaptured[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "frogcaptured[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "frogcaptured[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "frogcaptured[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "frogcaptured[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "dash[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "dash[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "dash[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "dash[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "dash[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "dash[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "dash[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "dash[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "dash[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "dash[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "arealabel2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "arealabel2[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel2[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel2[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel2[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "arealabel2[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "arealabel2[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "arealabel2[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "broodals[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "broodals[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "broodals[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "broodals[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "broodals[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "broodals[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "broodals[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "broodals[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "broodals[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "broodals[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "kingdom[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "kingdom[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "kingdom[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "kingdom[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "kingdom[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "kingdom[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "kingdom[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "kingdom[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "kingdom[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "kingdom[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "mission[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mission[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mission[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mission[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mission[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mission[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mission[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "mission[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mission[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "mission[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "yougotamoon[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "yougotamoon2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon2[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon2[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon2[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon2[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon2[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon2[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon2[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon2[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon2[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamoon2[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "chainchompikins[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "chainchompikins[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "chainchompikins[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "chainchompikins[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "chainchompikins[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "chainchompikins[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "chainchompikins[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "chainchompikins[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "chainchompikins[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "chainchompikins[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "yougotamultimoon[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamultimoon[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamultimoon[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamultimoon[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamultimoon[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamultimoon[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamultimoon[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamultimoon[nl-NL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamultimoon[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamultimoon[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "yougotamultimoon[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "odysseyrestored[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "odysseyrestored[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "odysseyrestored[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "odysseyrestored[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "odysseyrestored[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "odysseyrestored[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "odysseyrestored[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "odysseyrestored[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "odysseyrestored[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "odysseyrestored[zh-TW].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newkingdom[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "newkingdom[de-DE].jpg",
+            "notes": []
+          },
+          {
+            "filename": "newkingdom[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "newkingdom[fr-FR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "newkingdom[it-IT].jpg",
+            "notes": []
+          },
+          {
+            "filename": "newkingdom[ja-JP].jpg",
+            "notes": []
+          },
+          {
+            "filename": "newkingdom[ko-KR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "newkingdom[ru-RU].jpg",
+            "notes": []
+          },
+          {
+            "filename": "newkingdom[zh-CN].jpg",
+            "notes": []
+          },
+          {
+            "filename": "newkingdom[zh-TW].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes left unlocalized",
+      "columns": [
+        ""
+      ],
+      "rows": [
+        "weddingposter",
+        "title"
+      ],
+      "rowNotes": [
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "weddingposter.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "title.jpg",
+            "notes": []
+          }
+        ]
+      ]
+    }
+  ]
+}

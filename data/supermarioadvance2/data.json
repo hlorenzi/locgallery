@@ -1,0 +1,740 @@
+{
+  "kind": "game",
+  "title": "Super Mario Advance 2",
+  "year": 2001,
+  "copyright": "Nintendo",
+  "aspectRatio": 1.5,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "Scenes fully localized",
+      "columns": [
+        "ja-JP",
+        "en-US",
+        "de-DE",
+        "es-ES",
+        "fr-FR",
+        "zh-CN"
+      ],
+      "rows": [
+        "title",
+        "gameselect",
+        "title2",
+        "choosefile",
+        "erasefile",
+        "intro",
+        "stage_yoshishouse",
+        "yoshi_sign",
+        "msg_yoshi",
+        "stage_yoshisisland1",
+        "stageselected",
+        "mariostart",
+        "msg_spinjump",
+        "msg_itembox",
+        "msg_pickup",
+        "courseclear",
+        "stage_yellowswitchpalace",
+        "msg_switchpalace",
+        "pause1",
+        "pause2",
+        "timeup",
+        "gameover",
+        "gameover_prompt"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "title[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "title[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "title[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "gameselect[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "gameselect[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "gameselect[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "title2[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "title2[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "title2[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "choosefile[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "choosefile[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "choosefile[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "choosefile[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "choosefile[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "choosefile[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "erasefile[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "erasefile[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "erasefile[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "erasefile[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "erasefile[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "erasefile[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "intro[ja-JP].png",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "こんどのぶたいは　きょうりゅうランド　なにやらあやしいこのしまで　またもや　ピーチひめが　すがたをけした。こいつはきっと　クッパのしわざ！"
+              },
+              {
+                "kind": "standardization",
+                "text": "今度の舞台は恐竜ランド。なにやら怪しいこの島でまたもやピーチ姫が姿を消した。こいつはきっとクッパの仕業！"
+              },
+              {
+                "kind": "translation",
+                "text": "\"This time, the setting is Dinosaur Land. Somehow, on this strange island, Princess Peach has once again vanished. This is surely Koopa's doing!"
+              }
+            ]
+          },
+          {
+            "filename": "intro[en-US].png",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Welcome to Dinosaur Land! It seems that Princess Toadstool is missing...and that means Bowser must be up to his old tricks again!"
+              }
+            ]
+          },
+          {
+            "filename": "intro[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "intro[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "intro[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "intro[zh-CN].png",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "欢迎来到恐龙大陆！看起来，桃花公主似乎又失踪了……一定是酷霸王又在耍他的老把戏了。"
+              },
+              {
+                "kind": "translation",
+                "text": "Welcome to Dinosaur Land! It seems that Princess Peach has disappeared again... It must be King Koopa playing his old tricks again."
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "stage_yoshishouse[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshishouse[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshishouse[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshishouse[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshishouse[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshishouse[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "yoshi_sign[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "yoshi_sign[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "yoshi_sign[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "yoshi_sign[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "yoshi_sign[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "yoshi_sign[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "msg_yoshi[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_yoshi[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_yoshi[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_yoshi[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_yoshi[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_yoshi[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "stage_yoshisisland1[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshisisland1[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshisisland1[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshisisland1[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshisisland1[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yoshisisland1[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "stageselected[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "stageselected[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "stageselected[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "mariostart[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "mariostart[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "mariostart[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "mariostart[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "mariostart[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "mariostart[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "msg_spinjump[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_spinjump[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_spinjump[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_spinjump[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_spinjump[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_spinjump[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "msg_itembox[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_itembox[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_itembox[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_itembox[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_itembox[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_itembox[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "msg_pickup[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_pickup[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_pickup[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_pickup[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_pickup[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_pickup[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "courseclear[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "courseclear[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "courseclear[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "courseclear[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "courseclear[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "courseclear[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "stage_yellowswitchpalace[ja-JP].png",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "かっぱやま　きいろスイッチ"
+              },
+              {
+                "kind": "standardization",
+                "text": "河童山　黄色スイッチ"
+              },
+              {
+                "kind": "translation",
+                "text": "Kappa Mountain - Switch (Yellow)"
+              }
+            ]
+          },
+          {
+            "filename": "stage_yellowswitchpalace[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yellowswitchpalace[de-DE].png",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Glb. Schalterpalast"
+              },
+              {
+                "kind": "standardization",
+                "text": "Gelber Schalterpalast"
+              }
+            ]
+          },
+          {
+            "filename": "stage_yellowswitchpalace[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yellowswitchpalace[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "stage_yellowswitchpalace[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "msg_switchpalace[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_switchpalace[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_switchpalace[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_switchpalace[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_switchpalace[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "msg_switchpalace[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "pause1[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "pause1[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "pause1[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "pause1[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "pause1[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "pause1[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "pause2[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "pause2[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "pause2[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "pause2[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "pause2[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "pause2[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "timeup[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "timeup[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "timeup[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "timeup[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "timeup[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "timeup[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "gameover[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "gameover[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "gameover[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "gameover[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "gameover[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "gameover[zh-CN].png",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "gameover_prompt[ja-JP].png",
+            "notes": []
+          },
+          {
+            "filename": "gameover_prompt[en-US].png",
+            "notes": []
+          },
+          {
+            "filename": "gameover_prompt[de-DE].png",
+            "notes": []
+          },
+          {
+            "filename": "gameover_prompt[es-ES].png",
+            "notes": []
+          },
+          {
+            "filename": "gameover_prompt[fr-FR].png",
+            "notes": []
+          },
+          {
+            "filename": "gameover_prompt[zh-CN].png",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes left unlocalized",
+      "columns": [
+        ""
+      ],
+      "rows": [
+        "chooselanguage"
+      ],
+      "rowNotes": [
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "chooselanguage.png",
+            "notes": []
+          }
+        ]
+      ]
+    }
+  ]
+}

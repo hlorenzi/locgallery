@@ -1,0 +1,920 @@
+{
+  "kind": "movie",
+  "title": "Inside Out",
+  "year": 2015,
+  "copyright": "Disney, Pixar",
+  "aspectRatio": 1.7772727272727273,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "Scenes fully localized",
+      "columns": [
+        "en-US",
+        "pt-BR",
+        "es-419",
+        "he-IL",
+        "ja-JP"
+      ],
+      "rows": [
+        "plate1",
+        "plate2",
+        "plate3",
+        "plate4",
+        "plate5",
+        "plate6",
+        "newspaper1",
+        "sold",
+        "presents1",
+        "presents2",
+        "title",
+        "newspaper2",
+        "pizza1",
+        "pizza2",
+        "newspaper3",
+        "distraction",
+        "newspaper4",
+        "gum",
+        "newspaper5",
+        "danger",
+        "imagination",
+        "crates",
+        "newspaper6",
+        "studio",
+        "movies",
+        "door",
+        "fear",
+        "sleepometer",
+        "puberty",
+        "dogs1",
+        "dogs2",
+        "dogs3",
+        "credits_cast",
+        "credits_version"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "plate1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate1[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "plate2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate2[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "plate3[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate3[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "plate3[ja-JP].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "plate4[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate4[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "plate5[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate5[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "plate6[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "plate6[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "plate6[ja-JP].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newspaper1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "newspaper1[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "sold[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "sold[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "presents1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "presents1[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "presents2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "presents2[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "title[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "title[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Divertida Mente"
+              },
+              {
+                "kind": "translation",
+                "text": "a pun on the adverbial form of \"fun\" (\"funly\") and \"fun mind\""
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "newspaper2[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "pizza1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "pizza1[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "pizza1[ja-JP].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "pizza2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "pizza2[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "newspaper3[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "distraction[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "distraction[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "newspaper4[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "gum[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "gum[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "newspaper5[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "danger[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "danger[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "danger[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "danger[he-IL].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "imagination[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "imagination[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "imagination[es-419].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "crates[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "crates[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "newspaper6[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "studio[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "studio[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "movies[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "movies[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "door[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "door[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "fear[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "fear[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "sleepometer[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "sleepometer[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "puberty[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "puberty[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "dogs1[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "dogs2[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "dogs3[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "credits_cast[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_cast[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes localized generically",
+      "columns": [
+        "en-US",
+        "other"
+      ],
+      "rows": [
+        "cellphone"
+      ],
+      "rowNotes": [
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "cellphone[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "cellphone[other].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes left unlocalized",
+      "columns": [
+        ""
+      ],
+      "rows": [
+        "defcon",
+        "bus",
+        "signs",
+        "girl"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "defcon.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "bus.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "signs.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "girl.jpg",
+            "notes": []
+          }
+        ]
+      ]
+    }
+  ]
+}

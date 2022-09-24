@@ -6,6 +6,7 @@ export interface Records
 
 export interface Record
 {
+    id?: string
     kind: "movie" | "game"
     title: string
     year: number
@@ -21,6 +22,7 @@ export interface Table
     title: string
     columns: string[]
     rows: string[]
+    rowNotes: Note[][]
     pictures: Picture[][]
 }
 
@@ -35,6 +37,7 @@ export interface Picture
 export type NoteKind =
     "info" |
     "transcription" |
+    "reading" |
     "standardization" |
     "translation" |
     "inconsistency" |
@@ -66,8 +69,9 @@ export function makeTable(): Table
 {
     return {
         title: "",
-        columns: ["us"],
-        rows: ["pic"],
+        columns: ["en-US"],
+        rows: ["pic1"],
+        rowNotes: [[]],
         pictures: [[makePicture()]],
     }
 }

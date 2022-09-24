@@ -1,0 +1,55 @@
+{
+  "kind": "movie",
+  "title": "Monsters University",
+  "year": 2013,
+  "copyright": "Disney, Pixar",
+  "aspectRatio": 1.7777777777777777,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "Scenes fully localized",
+      "columns": [
+        "es-ES",
+        "fr-FR",
+        "pt-BR"
+      ],
+      "rows": [
+        "motto"
+      ],
+      "rowNotes": [
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "motto[es-ES].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Sustos que dan gusto"
+              }
+            ]
+          },
+          {
+            "filename": "motto[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "N'ayons pas peur de faire peur"
+              }
+            ]
+          },
+          {
+            "filename": "motto[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "No susto e no grito fazemos bonito"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

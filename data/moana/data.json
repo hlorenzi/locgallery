@@ -1,0 +1,56 @@
+{
+  "kind": "movie",
+  "title": "Moana",
+  "year": 2016,
+  "copyright": "Disney",
+  "aspectRatio": 1.7782002534854247,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "",
+      "columns": [
+        "pt-BR"
+      ],
+      "rows": [
+        "title",
+        "credits_cast",
+        "credits_version"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Extra credit screens at the end of the movie in foreign versions."
+          }
+        ]
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "title[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Moana"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "credits_cast[pt-BR].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "credits_version[pt-BR].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    }
+  ]
+}

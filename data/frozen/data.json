@@ -1,0 +1,130 @@
+{
+  "kind": "movie",
+  "title": "Frozen",
+  "year": 2013,
+  "copyright": "Disney",
+  "aspectRatio": 2.3820033955857385,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "Scenes fully localized",
+      "columns": [
+        "en-US",
+        "pt-BR"
+      ],
+      "rows": [
+        "title",
+        "threeyearslater",
+        "tradingpost",
+        "credits_version"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Extra credit screens at the end of the movie in foreign versions."
+          }
+        ]
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "title[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Frozen"
+              }
+            ]
+          },
+          {
+            "filename": "title[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Frozen — Uma Aventura Congelante"
+              },
+              {
+                "kind": "translation",
+                "text": "Frozen — A Freezing Adventure"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "threeyearslater[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Three Years Later"
+              }
+            ]
+          },
+          {
+            "filename": "threeyearslater[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Três Anos Depois"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "tradingpost[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Wandering Oaken's Trading Post and Sauna"
+              }
+            ]
+          },
+          {
+            "filename": "tradingpost[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Armazém do Carvalho Errante e Spa"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[pt-BR].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes left unlocalized",
+      "columns": [
+        ""
+      ],
+      "rows": [
+        "credits_cast"
+      ],
+      "rowNotes": [
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "credits_cast.jpg",
+            "notes": []
+          }
+        ]
+      ]
+    }
+  ]
+}

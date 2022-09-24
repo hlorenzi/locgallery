@@ -1,0 +1,1538 @@
+{
+  "kind": "movie",
+  "title": "The Incredibles",
+  "year": 2004,
+  "copyright": "Disney, Pixar",
+  "aspectRatio": 2.503921568627451,
+  "compareWith": [],
+  "tables": [
+    {
+      "title": "Scenes fully localized",
+      "columns": [
+        "en-US",
+        "pt-BR",
+        "fr-FR",
+        "ja-JP"
+      ],
+      "rows": [
+        "interview_mrincredible",
+        "presents1",
+        "interview_elastigirl",
+        "presents2",
+        "interview_frozone",
+        "title",
+        "bombvoyage1",
+        "bombvoyage2",
+        "bombvoyage3",
+        "newspaper1",
+        "newsticker1",
+        "newsticker2",
+        "newspaper2",
+        "newspaper3",
+        "newspaper4",
+        "newspaper5",
+        "newspaper6",
+        "newspaper7",
+        "newspaper8",
+        "fifteenyears",
+        "missing",
+        "search_elastigirl",
+        "search_frozone",
+        "search_mrincredible",
+        "threemonths",
+        "credits_cast",
+        "credits_version"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "\"Monsieur Incroyable...!\" Even though he still speaks the same lines in foreign versions (except in French), he's been dubbed over by other actors, presumably so he could react to Incrediboy's localized name."
+          }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Missing elaboration in foreign versions."
+          }
+        ],
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Missing elaboration in foreign versions."
+          }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Cast section is localized in an extra screen after the original credits."
+          }
+        ],
+        [
+          {
+            "kind": "info",
+            "text": "Extra credit screens at the end of the movie in foreign versions."
+          }
+        ]
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "interview_mrincredible[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Mr. Incredible"
+              },
+              {
+                "kind": "info",
+                "text": "His secret identity is \"Robert Parr\", or \"Bob Parr\" for short."
+              }
+            ]
+          },
+          {
+            "filename": "interview_mrincredible[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Sr. Incrível"
+              },
+              {
+                "kind": "info",
+                "text": "His secret identity is \"Roberto Pêra\", or \"Beto Pêra\" for short."
+              }
+            ]
+          },
+          {
+            "filename": "interview_mrincredible[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "M. Indestructible"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "presents1[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Walt Disney Pictures presents"
+              }
+            ]
+          },
+          {
+            "filename": "presents1[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Walt Disney Pictures apresenta"
+              }
+            ]
+          },
+          {
+            "filename": "presents1[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Walt Disney Pictures présente"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "interview_elastigirl[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Elastigirl"
+              },
+              {
+                "kind": "info",
+                "text": "Her secret identity is \"Helen Truax\", later \"Helen Parr\"."
+              }
+            ]
+          },
+          {
+            "filename": "interview_elastigirl[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Mulher-Elástica"
+              },
+              {
+                "kind": "translation",
+                "text": "Elastic-Woman"
+              },
+              {
+                "kind": "info",
+                "text": "Her secret identity is \"Helena Pêra\"."
+              }
+            ]
+          },
+          {
+            "filename": "interview_elastigirl[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Elastigirl"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "presents2[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "A Pixar Animation Studios film"
+              }
+            ]
+          },
+          {
+            "filename": "presents2[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Um filme Pixar Animation Studios"
+              }
+            ]
+          },
+          {
+            "filename": "presents2[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Un film Pixar Animation Studios"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "interview_frozone[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Frozone"
+              },
+              {
+                "kind": "info",
+                "text": "His secret identity is \"Lucius Best\"."
+              }
+            ]
+          },
+          {
+            "filename": "interview_frozone[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Gelado"
+              },
+              {
+                "kind": "translation",
+                "text": "\"Cold\" or \"Icy\""
+              },
+              {
+                "kind": "info",
+                "text": "His secret identity is \"Lúcio Barros\"."
+              }
+            ]
+          },
+          {
+            "filename": "interview_frozone[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Frozone"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "title[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "The Incredibles"
+              }
+            ]
+          },
+          {
+            "filename": "title[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Os Incríveis"
+              }
+            ]
+          },
+          {
+            "filename": "title[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Les Indestructibles"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "bombvoyage1[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Mr. Incredible...!"
+              }
+            ]
+          },
+          {
+            "filename": "bombvoyage1[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Sr. Incrível...!"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "bombvoyage2[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Little oaf...!"
+              }
+            ]
+          },
+          {
+            "filename": "bombvoyage2[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Idiota...!"
+              },
+              {
+                "kind": "translation",
+                "text": "Idiot...!"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "bombvoyage3[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "And your outfit is totally ridiculous!"
+              }
+            ]
+          },
+          {
+            "filename": "bombvoyage3[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "E sua roupa é totalmente ridícula!"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newspaper1[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Mr. Incredible sued"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper1[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Sr. Incrível processado"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper1[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "M. Indestructible mis en examen"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newsticker1[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Rescue ends in legal battle"
+              }
+            ]
+          },
+          {
+            "filename": "newsticker1[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Resgate termina em disputa judicial"
+              }
+            ]
+          },
+          {
+            "filename": "newsticker1[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Le sauvetage finit en bataille juridique"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newsticker2[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Rescue ends in legal battle"
+              }
+            ]
+          },
+          {
+            "filename": "newsticker2[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Resgate termina em disputa judicial"
+              }
+            ]
+          },
+          {
+            "filename": "newsticker2[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Le sauvetage finit en bataille juridique"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newspaper2[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "X-ray vision peeping tom?"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper2[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Xereta com visão de raio-X?"
+              },
+              {
+                "kind": "oddity",
+                "text": "The preferred spelling would be \"raios X\" (plural, no hyphen)."
+              }
+            ]
+          },
+          {
+            "filename": "newspaper2[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Des rayons X au service d'un voyeur ?"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newspaper3[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "$uper damage$ / Another bold rescue ends in disaster, landmark damaged, scores injured"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper3[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Super prejuízos"
+              },
+              {
+                "kind": "info",
+                "text": "Not stylized with dollar signs."
+              }
+            ]
+          },
+          {
+            "filename": "newspaper3[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Sup€r d€gats"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newspaper4[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Dynaguy sued"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper4[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Dínamo processado"
+              },
+              {
+                "kind": "inconsistency",
+                "text": "Edna Mode later refers to him as \"Dinamite\" in the dub."
+              }
+            ]
+          },
+          {
+            "filename": "newspaper4[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Dynaman mis en examen"
+              },
+              {
+                "kind": "inconsistency",
+                "text": "Edna Mode later refers to him as \"Ultraman\" in the dub."
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newspaper5[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Government hides heroes"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper5[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Governo esconde heróis"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper5[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Le gouvernement cache les super-héros"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newspaper6[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Public Safe Again / Public Opinion Polls Show 85% in favor of Super Relocation Act"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper6[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Público em Segurança Novamente"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper6[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Le public à nouveau en sécurité"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newspaper7[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Not so super anymore"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper7[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Já não tão super"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper7[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Plus si super que ça"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "newspaper8[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Supers: where are they now?"
+              }
+            ]
+          },
+          {
+            "filename": "newspaper8[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Supers: onde estão eles agora?"
+              },
+              {
+                "kind": "inconsistency",
+                "text": "The narrator reads this more naturally as \"onde eles estão agora?\" (swapped word order) in the dub."
+              }
+            ]
+          },
+          {
+            "filename": "newspaper8[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Super-héros : oú sont-ils passés ?"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "fifteenyears[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "15 years later"
+              }
+            ]
+          },
+          {
+            "filename": "fifteenyears[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "15 anos depois"
+              }
+            ]
+          },
+          {
+            "filename": "fifteenyears[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "15 ans plus tard"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "missing[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Man missing"
+              }
+            ]
+          },
+          {
+            "filename": "missing[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Desaparecido"
+              },
+              {
+                "kind": "translation",
+                "text": "Missing"
+              }
+            ]
+          },
+          {
+            "filename": "missing[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Disparu"
+              },
+              {
+                "kind": "translation",
+                "text": "Missing"
+              }
+            ]
+          },
+          {
+            "filename": "missing[ja-JP].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "行方不明"
+              },
+              {
+                "kind": "reading",
+                "text": "yukue fumei"
+              },
+              {
+                "kind": "translation",
+                "text": "Whereabouts unknown"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "search_elastigirl[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Search: Elastigirl"
+              }
+            ]
+          },
+          {
+            "filename": "search_elastigirl[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Mulher-Elástica"
+              }
+            ]
+          },
+          {
+            "filename": "search_elastigirl[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Elastigirl"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "search_frozone[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Search: Frozone"
+              }
+            ]
+          },
+          {
+            "filename": "search_frozone[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Gelado"
+              }
+            ]
+          },
+          {
+            "filename": "search_frozone[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Frozone"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "search_mrincredible[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Search: Mr. Incredible"
+              }
+            ]
+          },
+          {
+            "filename": "search_mrincredible[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Sr. Incrível"
+              }
+            ]
+          },
+          {
+            "filename": "search_mrincredible[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "M. Indestructible"
+              }
+            ]
+          },
+          {
+            "filename": "search_mrincredible[ja-JP].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Mr.[ミスター]インクレディブル"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "threemonths[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "3 months later"
+              }
+            ]
+          },
+          {
+            "filename": "threemonths[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Três meses depois"
+              },
+              {
+                "kind": "info",
+                "text": "Number is spelled out, as is preferred in Portuguese."
+              }
+            ]
+          },
+          {
+            "filename": "threemonths[fr-FR].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "3 mois plus tard"
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "credits_cast[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "credits_cast[pt-BR].jpg",
+            "notes": [
+              {
+                "kind": "info",
+                "text": "Still only reflects the first dub, which isn't the currently distributed version."
+              }
+            ]
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "credits_version[pt-BR].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes localized generically",
+      "columns": [
+        "en-US",
+        "other"
+      ],
+      "rows": [
+        "pursuit1",
+        "pursuit2",
+        "pursuit3",
+        "protest",
+        "denied",
+        "wall",
+        "wall_detail1",
+        "wall_detail2",
+        "wall_detail3",
+        "wall_detail4",
+        "location_unknown1",
+        "location_unknown2",
+        "location_known1",
+        "location_known2",
+        "terminated"
+      ],
+      "rowNotes": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Foreign versions include assets in a variety of languages in the same shot, but the original only features English text. The \"Doing our part!\" poster and the Life magazine cover have had the American flag background changed."
+          }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Text is replaced by graphics. The original shot also includes a camera pan, which is not present in foreign versions."
+          }
+        ],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Text is replaced by graphics. The original shot also includes a camera pan, which is not present in foreign versions."
+          }
+        ],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "pursuit1[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Isolate pursuit"
+              }
+            ]
+          },
+          {
+            "filename": "pursuit1[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "pursuit2[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Merge pursuit / Auto drive"
+              }
+            ]
+          },
+          {
+            "filename": "pursuit2[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "pursuit3[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Intercept mode / Convert"
+              }
+            ]
+          },
+          {
+            "filename": "pursuit3[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "protest[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "protest[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "denied[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Denied"
+              }
+            ]
+          },
+          {
+            "filename": "denied[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "wall[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "wall[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "wall_detail1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "wall_detail1[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "wall_detail2[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Thank you Mr. Incredible"
+              }
+            ]
+          },
+          {
+            "filename": "wall_detail2[other].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "ありがとうミスター・インクレディブル"
+              },
+              {
+                "kind": "reading",
+                "text": "arigatō misutā inkurediburu"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "wall_detail3[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "wall_detail3[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "wall_detail4[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "location_unknown1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "location_unknown1[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "location_unknown2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "location_unknown2[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "location_known1[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "location_known1[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "location_known2[en-US].jpg",
+            "notes": []
+          },
+          {
+            "filename": "location_known2[other].jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "terminated[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Terminated"
+              }
+            ]
+          },
+          {
+            "filename": "terminated[other].jpg",
+            "notes": []
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Scenes left unlocalized",
+      "columns": [
+        ""
+      ],
+      "rows": [
+        "commanddial",
+        "autodrive",
+        "targetapproach",
+        "bank",
+        "insuricare1",
+        "school",
+        "insuricare2",
+        "holdstill",
+        "bigmoney",
+        "mirage",
+        "robotvision1",
+        "kronos",
+        "password",
+        "mainmenu",
+        "opkronos",
+        "countdown",
+        "danger",
+        "powergrid1",
+        "powergrid2",
+        "robotvision2",
+        "robotvision3"
+      ],
+      "rowNotes": [
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "Screen is not localized on scenes where it's not the main focus."
+          }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          {
+            "kind": "info",
+            "text": "A missed opportunity for localization, since the text is read out loud by Bob."
+          }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "pictures": [
+        [
+          {
+            "filename": "commanddial.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Isolate pursuit"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "autodrive.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "targetapproach.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "bank.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "insuricare1.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "school.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "insuricare2.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Rules & Regulations / Insuricare / Employee Handbook / Volume XI"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "holdstill.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Hold still"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "bigmoney.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Prototype / Equipment / Robot / Private / Damage / Big $"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "mirage.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "robotvision1.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Target lock"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "kronos.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "password.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "mainmenu.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Island operations / Finances / Omnidroid metatraining / Supers"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "opkronos.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Operation Kronos / Phase: 1 2 3"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "countdown.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Project Kronos Countdown / 08 hours : 10 minutes : 42 seconds until launch"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "danger.jpg",
+            "notes": []
+          }
+        ],
+        [
+          {
+            "filename": "powergrid1.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Energy Level"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "powergrid2.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Cell Block Power Grid"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "robotvision2.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Control stolen by external signal"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "filename": "robotvision3.jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Signal source: remote control / Destroy remote"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
