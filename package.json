@@ -3,7 +3,6 @@
   "version": "2.0.0",
   "description": "",
   "author": "hlorenzi",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "build": "ts-node build.ts && webpack --config webpack.config.cjs",

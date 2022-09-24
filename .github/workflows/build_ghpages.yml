@@ -24,8 +24,6 @@ jobs:
       continue-on-error: true
 
     - run: git checkout -b ghpages
-    - run: rm .gitignore
-    - run: mv .gitignore.ghpages .gitignore
     - run: npm ci
     - run: npm run build
     - run: mv ./build/* ./
