@@ -45,7 +45,7 @@ export function PageHome(props: {
             <br/>
             <br/>
 
-            { entriesMovies.map((data, i) =>
+            { entriesGames.map((data, i) =>
                 <React.Fragment key={ i }>
                     • <a href={ data.id }>
                         <b>{ data.title }</b>
@@ -56,7 +56,7 @@ export function PageHome(props: {
 
             <br/>
 
-            { entriesGames.map((data, i) =>
+            { entriesMovies.map((data, i) =>
                 <React.Fragment key={ i }>
                     • <a href={ data.id }>
                         <b>{ data.title }</b>
