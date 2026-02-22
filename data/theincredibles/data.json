@@ -1058,7 +1058,8 @@
         "location_unknown2",
         "location_known1",
         "location_known2",
-        "terminated"
+        "terminated",
+        "fastenseatbelt"
       ],
       "rowNotes": [
         [],
@@ -1089,6 +1090,7 @@
             "text": "Text is replaced by graphics. The original shot also includes a camera pan, which is not present in foreign versions."
           }
         ],
+        [],
         [],
         []
       ],
@@ -1281,6 +1283,21 @@
             "filename": "terminated[other].jpg",
             "notes": []
           }
+        ],
+        [
+          {
+            "filename": "fastenseatbelt[en-US].jpg",
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Fasten seat belt"
+              }
+            ]
+          },
+          {
+            "filename": "fastenseatbelt[other].jpg",
+            "notes": []
+          }
         ]
       ]
     },
@@ -1360,19 +1377,34 @@
         [
           {
             "filename": "autodrive.jpg",
-            "notes": []
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Auto drive"
+              }
+            ]
           }
         ],
         [
           {
             "filename": "targetapproach.jpg",
-            "notes": []
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Target approach"
+              }
+            ]
           }
         ],
         [
           {
             "filename": "bank.jpg",
-            "notes": []
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Municiberg Bank"
+              }
+            ]
           }
         ],
         [
@@ -1384,7 +1416,12 @@
         [
           {
             "filename": "school.jpg",
-            "notes": []
+            "notes": [
+              {
+                "kind": "transcription",
+                "text": "Western View Junior High"
+              }
+            ]
           }
         ],
         [
